@@ -41,3 +41,5 @@ Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind 
 ## Details: 
 
 - Auth with Clerk
+- Component lib: Shadcn/ui 
+- Neon: Postgresql database
