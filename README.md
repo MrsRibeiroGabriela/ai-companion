@@ -43,6 +43,7 @@ Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind 
 - Auth with Clerk
 - Component lib: Shadcn/ui 
 - Neon: Postgresql database
+- Hotpot.ai: AI Image generator
 
 ##Prisma (run every time schema changes)
 
