@@ -44,6 +44,9 @@ Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind 
 - Component lib: Shadcn/ui 
 - Neon: Postgresql database
 - Hotpot.ai: AI Image generator
+- Pinecone: Long-term memory for AI/Vector database
+- Upstash = Serverless database (Redis)
+- Redis: Long-term memory
 
 ##Prisma (run every time schema changes)
 
