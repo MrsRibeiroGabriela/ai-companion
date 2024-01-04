@@ -48,6 +48,7 @@ Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind 
 - Upstash = Serverless database (Redis)
 - Redis: Long-term memory
 - Stripe: Online and in-person payment processing and financial solutions
+- Zustand: State Management
 
 ##Prisma (run every time schema changes)
 
