@@ -47,6 +47,7 @@ Build a SaaS: AI Companion With Next 13, React, Stripe, Prisma, MySQL, Tailwind 
 - Pinecone: Long-term memory for AI/Vector database
 - Upstash = Serverless database (Redis)
 - Redis: Long-term memory
+- Stripe: Online and in-person payment processing and financial solutions
 
 ##Prisma (run every time schema changes)
 
@@ -63,3 +64,5 @@ npx prisma db push
 npx prisma studio
 
 ```
+
+##PS: ctrl + P and type: > reload window in the VS code command palette for random errors after making changes on Prisma schema.
